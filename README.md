@@ -14,5 +14,5 @@ This repository contains implementations of various design patterns in Java. Bel
 To use these patterns, clone the repository and navigate to the respective folders for each design pattern. Each folder contains the code along with instructions on how to run it.
 
 ```bash
-git clone <[repository_url](https://github.com/bhomiksingh2000/Design-Patterns.git)>
+git clone <https://github.com/bhomiksingh2000/Design-Patterns>
 cd <pattern_folder>
