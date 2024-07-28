@@ -20,6 +20,5 @@ public class Main {
         Vehicle thar = new OffRoadVehicle();
         thar.drive();
 
-
     }
 }
